@@ -84,7 +84,7 @@ python human_detector.py --camera
 
 ---
 
-## How to Explain in a Technical Interview
+## Explanation
 
 1. **Problem Statement**
 
